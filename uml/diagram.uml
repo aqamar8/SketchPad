@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="702.0">Sketchpad.obj</node>
+    <node x="61.0" y="295.0">Sketchpad</node>
+    <node x="81.0" y="0.0">frame</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Sketchpad" target="frame">
+      <point x="-46.5" y="-178.5" />
+      <point x="107.5" y="270.0" />
+      <point x="117.5" y="270.0" />
+      <point x="-36.5" y="122.5" />
+    </edge>
+    <edge source="Sketchpad.obj" target="Sketchpad">
+      <point x="-115.5" y="-146.5" />
+      <point x="38.5" y="677.0" />
+      <point x="84.25" y="677.0" />
+      <point x="-69.75" y="178.5" />
+    </edge>
+    <edge source="Sketchpad" target="Sketchpad.obj">
+      <point x="23.25" y="178.5" />
+      <point x="177.25" y="677.0" />
+      <point x="192.5" y="677.0" />
+      <point x="38.5" y="-146.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7280788177339901" x="155.50749926836409" y="461.6215174129353" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
